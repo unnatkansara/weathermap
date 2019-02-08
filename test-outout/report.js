@@ -43,35 +43,33 @@ formatter.match({
   "location": "WeatherMapStepDefinition.user_is_on_the_page_https_openweathermap_org()"
 });
 formatter.result({
-  "duration": 96587361,
+  "duration": 60842891145,
   "status": "passed"
 });
 formatter.match({
   "location": "WeatherMapStepDefinition.page_is_appropriately_loaded()"
 });
 formatter.result({
-  "duration": 58053,
-  "status": "passed"
+  "duration": 39544669389,
+  "error_message": "java.lang.NullPointerException\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy15.isDisplayed(Unknown Source)\r\n\tat stepDefinitions.WeatherMapStepDefinition.page_is_appropriately_loaded(WeatherMapStepDefinition.java:27)\r\n\tat ✽.When Page is appropriately loaded(D:/weathermap/weathermap/src/main/java/Features/weathermapFeatures.feature:6)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "WeatherMapStepDefinition.check_city_name_input_and_search_button_is_available()"
 });
 formatter.result({
-  "duration": 52921,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "WeatherMapStepDefinition.check_sample_information_is_london_is_dispalyed()"
 });
 formatter.result({
-  "duration": 55487,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "WeatherMapStepDefinition.close_the_browser()"
 });
 formatter.result({
-  "duration": 57090,
-  "status": "passed"
+  "status": "skipped"
 });
 });
