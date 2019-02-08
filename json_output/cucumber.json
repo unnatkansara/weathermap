@@ -1,0 +1,82 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "E2E test to check all important information displayed on landing page",
+        "description": "",
+        "id": "to-check-weathermap-site-is-working-appropriately;e2e-test-to-check-all-important-information-displayed-on-landing-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 96587361,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on the page https://openweathermap.org/",
+            "match": {
+              "location": "WeatherMapStepDefinition.user_is_on_the_page_https_openweathermap_org()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 58053,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Page is appropriately loaded",
+            "match": {
+              "location": "WeatherMapStepDefinition.page_is_appropriately_loaded()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 52921,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "check city name input and search button is available",
+            "match": {
+              "location": "WeatherMapStepDefinition.check_city_name_input_and_search_button_is_available()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 55487,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "check sample information is london is dispalyed",
+            "match": {
+              "location": "WeatherMapStepDefinition.check_sample_information_is_london_is_dispalyed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 57090,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser",
+            "match": {
+              "location": "WeatherMapStepDefinition.close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "To check weathermap site is working appropriately",
+    "description": "",
+    "id": "to-check-weathermap-site-is-working-appropriately",
+    "keyword": "Feature",
+    "uri": "D:/weathermap/weathermap/src/main/java/Features/weathermapFeatures.feature"
+  }
+]

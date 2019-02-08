@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.096811">
+<testcase classname="To check weathermap site is working appropriately" name="E2E test to check all important information displayed on landing page" time="0.096811">
+<system-out><![CDATA[Given User is on the page https://openweathermap.org/.......................passed
+When Page is appropriately loaded...........................................passed
+Then check city name input and search button is available...................passed
+Then check sample information is london is dispalyed........................passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

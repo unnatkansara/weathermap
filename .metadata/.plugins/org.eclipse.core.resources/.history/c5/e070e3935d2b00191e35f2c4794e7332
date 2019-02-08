@@ -1,0 +1,9 @@
+package utility;
+
+public class Utilities {
+	public WebDriver driver;
+	public void navigateToUrl(String url){
+		
+	}
+	
+}

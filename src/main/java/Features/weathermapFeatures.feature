@@ -1,0 +1,9 @@
+Feature: To check weathermap site is working appropriately
+
+Scenario: E2E test to check all important information displayed on landing page
+
+Given User is on the page https://openweathermap.org/
+When Page is appropriately loaded
+Then check city name input and search button is available
+Then check sample information is london is dispalyed
+And close the browser

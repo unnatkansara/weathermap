@@ -1,0 +1,3 @@
+Feature: To check weathermap site is working appropriately
+Scenario: E2E test to check all important information displayed on landing page
+Given 

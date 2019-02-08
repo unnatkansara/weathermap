@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;StepDefinitions&apos; to &apos;stepDefinitions&apos;&#x0D;&#x0A;- Original project: &apos;weathermap&apos;&#x0D;&#x0A;- Original element: &apos;weathermap/src/main/java/StepDefinitions&apos;&#x0D;&#x0A;- Renamed element: &apos;weathermap/src/main/java/stepDefinitions&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;StepDefinitions&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;StepDefinitions" name="stepDefinitions" qualified="false" references="true" stamp="1549599740830" textual="false" version="1.0"/>
+</session>

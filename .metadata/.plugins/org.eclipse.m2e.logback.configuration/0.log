@@ -1,0 +1,236 @@
+2019-02-08 09:19:22,500 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\weathermap\weathermap\pom.xml
+2019-02-08 09:19:29,968 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: automation:weathermap:0.0.1-SNAPSHOT @ D:\weathermap\weathermap\pom.xml.
+2019-02-08 09:19:31,763 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /weathermap/src/main/java
+2019-02-08 09:19:31,778 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /weathermap/src/test/java
+2019-02-08 09:19:31,921 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2019-02-08 09:19:34,230 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:19:34,230 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:19:34,230 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:19:34,230 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:20:34,104 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: automation:weathermap:0.0.1-SNAPSHOT @ D:\weathermap\weathermap\pom.xml.
+2019-02-08 09:20:35,646 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexuslab.alm/nexus/content/groups/public/info/cukes/cucumber-junit/1.2.5/cucumber-junit-1.2.5.pom
+2019-02-08 09:20:35,958 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexuslab.alm/nexus/content/groups/public/info/cukes/cucumber-junit/1.2.5/cucumber-junit-1.2.5.pom
+2019-02-08 09:20:41,751 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexuslab.alm/nexus/content/groups/public/info/cukes/cucumber-picocontainer/1.2.5/cucumber-picocontainer-1.2.5.pom
+2019-02-08 09:20:42,032 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexuslab.alm/nexus/content/groups/public/info/cukes/cucumber-picocontainer/1.2.5/cucumber-picocontainer-1.2.5.pom
+2019-02-08 09:20:42,657 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexuslab.alm/nexus/content/groups/public/org/picocontainer/picocontainer/2.15/picocontainer-2.15.pom
+2019-02-08 09:20:42,939 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexuslab.alm/nexus/content/groups/public/org/picocontainer/picocontainer/2.15/picocontainer-2.15.pom
+2019-02-08 09:20:43,220 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexuslab.alm/nexus/content/groups/public/org/picocontainer/picocontainer-parent/2.15/picocontainer-parent-2.15.pom
+2019-02-08 09:20:43,939 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexuslab.alm/nexus/content/groups/public/org/picocontainer/picocontainer-parent/2.15/picocontainer-parent-2.15.pom
+2019-02-08 09:20:44,799 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexuslab.alm/nexus/content/groups/public/info/cukes/cucumber-junit/1.2.5/cucumber-junit-1.2.5.jar
+2019-02-08 09:20:45,347 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexuslab.alm/nexus/content/groups/public/info/cukes/cucumber-junit/1.2.5/cucumber-junit-1.2.5.jar
+2019-02-08 09:20:45,626 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexuslab.alm/nexus/content/groups/public/com/google/code/gson/gson/2.4/gson-2.4.jar
+2019-02-08 09:20:46,735 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexuslab.alm/nexus/content/groups/public/com/google/code/gson/gson/2.4/gson-2.4.jar
+2019-02-08 09:20:47,019 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexuslab.alm/nexus/content/groups/public/info/cukes/cucumber-picocontainer/1.2.5/cucumber-picocontainer-1.2.5.jar
+2019-02-08 09:20:47,378 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexuslab.alm/nexus/content/groups/public/info/cukes/cucumber-picocontainer/1.2.5/cucumber-picocontainer-1.2.5.jar
+2019-02-08 09:20:47,657 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://nexuslab.alm/nexus/content/groups/public/org/picocontainer/picocontainer/2.15/picocontainer-2.15.jar
+2019-02-08 09:20:48,773 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexuslab.alm/nexus/content/groups/public/org/picocontainer/picocontainer/2.15/picocontainer-2.15.jar
+2019-02-08 09:20:51,783 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:20:51,783 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:20:51,783 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:20:51,783 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:20:53,624 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:20:53,625 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:20:53,625 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:20:53,625 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:21:28,536 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:21:28,536 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:21:28,536 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:21:28,536 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:21:52,240 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-02-08 09:21:52,718 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: automation:weathermap:0.0.1-SNAPSHOT @ D:\weathermap\weathermap\pom.xml.
+2019-02-08 09:21:53,062 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /weathermap/src/main/java
+2019-02-08 09:21:53,062 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /weathermap/src/test/java
+2019-02-08 09:21:53,436 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-02-08 09:21:54,305 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:21:54,305 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:21:54,321 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:21:54,321 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:22:17,369 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:22:17,369 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:22:17,369 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:22:17,369 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:22:54,157 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-02-08 09:22:54,391 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: automation:weathermap:0.0.1-SNAPSHOT @ D:\weathermap\weathermap\pom.xml.
+2019-02-08 09:22:54,962 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /weathermap/src/main/java
+2019-02-08 09:22:54,962 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /weathermap/src/test/java
+2019-02-08 09:22:55,103 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-02-08 09:22:55,765 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:22:55,765 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:22:55,765 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:22:55,765 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:23:11,614 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:23:11,614 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:23:11,615 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:23:11,615 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:23:41,665 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:23:41,665 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:23:41,665 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:23:41,665 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:23:53,655 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:23:53,655 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:23:53,655 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:23:53,655 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:24:06,164 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:24:06,164 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:24:06,164 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:24:06,164 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:24:18,111 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:24:18,111 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:24:18,111 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:24:18,111 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:48:02,205 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:48:02,205 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:48:02,206 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:48:02,206 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:49:06,859 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:49:06,859 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:49:06,860 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:49:06,860 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:49:08,064 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:49:08,064 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:49:08,064 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:49:08,064 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:49:12,628 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:49:12,628 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:49:12,629 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:49:12,629 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:49:17,988 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:49:17,988 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:49:17,989 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:49:17,989 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:49:34,245 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:49:34,245 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:49:34,246 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:49:34,246 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:50:47,655 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:50:47,655 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:50:47,656 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:50:47,656 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:52:21,194 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:52:21,194 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:52:21,201 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:52:21,201 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:52:55,068 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:52:55,068 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:52:55,072 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:52:55,072 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 09:53:39,467 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:53:39,467 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 09:53:39,468 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 09:53:39,468 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:02:11,090 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:02:11,090 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:02:11,091 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:02:11,091 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:02:16,962 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:02:16,963 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:02:16,966 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:02:16,966 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:03:15,241 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:03:15,241 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:03:15,242 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:03:15,242 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:03:29,299 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:03:29,299 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:03:29,299 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:03:29,299 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:03:51,260 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:03:51,261 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:03:51,261 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:03:51,261 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:04:21,451 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:04:21,451 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:04:21,451 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:04:21,451 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:05:35,278 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:05:35,278 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:05:35,279 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:05:35,279 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:06:10,927 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:06:10,928 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:06:10,942 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:06:10,942 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:06:14,770 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:06:14,770 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:06:14,771 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:06:14,771 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:19:38,997 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:19:38,997 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:19:38,998 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:19:38,998 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:19:40,127 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:19:40,128 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:19:40,128 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:19:40,128 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:21:37,564 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:21:37,564 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:21:37,565 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:21:37,565 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:22:57,749 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:22:57,749 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:22:57,749 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:22:57,749 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:23:15,851 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:23:15,851 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:23:15,851 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:23:15,851 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:23:26,437 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:23:26,437 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:23:26,437 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:23:26,437 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:23:53,478 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:23:53,478 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:23:53,478 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:23:53,478 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:24:01,202 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:24:01,202 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:24:01,202 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:24:01,202 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:24:12,603 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:24:12,603 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:24:12,603 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:24:12,603 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:24:23,110 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:24:23,110 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:24:23,110 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:24:23,110 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:24:34,434 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:24:34,434 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:24:34,434 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:24:34,434 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:25:00,077 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:25:00,077 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:25:00,077 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:25:00,077 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:25:11,691 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:25:11,691 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:25:11,691 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:25:11,691 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:25:19,906 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:25:19,906 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:25:19,906 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:25:19,906 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:25:35,392 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:25:35,392 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:25:35,392 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:25:35,392 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:26:29,020 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:26:29,020 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:26:29,020 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:26:29,020 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:26:51,352 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:26:51,352 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:26:51,352 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:26:51,352 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:27:17,037 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:27:17,037 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:27:17,037 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:27:17,037 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:27:24,262 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:27:24,262 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:27:24,262 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:27:24,262 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources
+2019-02-08 10:29:56,544 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:29:56,544 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\main\resources
+2019-02-08 10:29:56,544 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-08 10:29:56,544 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\weathermap\weathermap\src\test\resources

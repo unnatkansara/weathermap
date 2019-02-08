@@ -1,0 +1,31 @@
+package stepDefinitions;
+
+public class WeatherMapStepDefinition {
+
+	@Given("^User is on the page https://openweathermap\\.org/$")
+	public void user_is_on_the_page_https_openweathermap_org() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@When("^Page is appropriately loaded$")
+	public void page_is_appropriately_loaded() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Then("^check city name input and search button is available$")
+	public void check_city_name_input_and_search_button_is_available() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Then("^check sample information is london is dispalyed$")
+	public void check_sample_information_is_london_is_dispalyed() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	
+	
+}
